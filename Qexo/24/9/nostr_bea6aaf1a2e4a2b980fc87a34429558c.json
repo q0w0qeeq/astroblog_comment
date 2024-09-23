@@ -1,0 +1,10 @@
+{
+    "names": {
+      "0w0": "10d8c3c3f012a99a0ff1ff16e2d4f2601492033a14f5e297e12317bb5bb5ac1a"
+    },
+    "relays": {
+      "10d8c3c3f012a99a0ff1ff16e2d4f2601492033a14f5e297e12317bb5bb5ac1a": [
+        "wss://relay.z3z.xyz"
+      ]
+    }
+  }
